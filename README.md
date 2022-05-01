@@ -1,7 +1,5 @@
 # Time Series Forecasting with Machine Learning Model ARIMA
 
-[Notebook preview]()
-
 Time series forecasting is a data science task that is critical to a variety of activities within any business organisation. Time series forecasting is a useful tool that can help to understand how historical data influences the future. This is done by looking at past data, defining the patterns, and producing short or long-term predictions.
 
 The aim of this project was get familiar with timeseries and forecasting ML models and predict the future values.
